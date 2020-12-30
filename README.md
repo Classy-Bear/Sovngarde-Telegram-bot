@@ -4,8 +4,6 @@
 
 # Sovngarde Telegram bot - Alpha
 
----
-
 This is the official CoC Telegram bot.
 
 This bot can get information in the following topics:
@@ -13,7 +11,10 @@ This bot can get information in the following topics:
 * Player
 * War
 * League (coming soon)
-* Probabilities of winning against a base, war or league
+* Probabilities of winning against a base, war or league (coming soon)
+* Get any clan, player, war and league information (coming soon)
+* war and leagues notifications (coming soon)
+* CoC inbox message template (in discussion)
 
 ## Get started
 
@@ -33,3 +34,8 @@ BOT_TOKEN=$BOT_TOKEN COC_API_TOKEN=$COC_API_TOKEN node index.js
 
 **Note**: The bots replies are in Spanish, transaltions will be made in future
 versions.
+
+## APIs
+[Clash of Clans](https://developer.clashofclans.com/#/)
+
+[Telegram Bot](https://core.telegram.org/bots/api#available-methods)
